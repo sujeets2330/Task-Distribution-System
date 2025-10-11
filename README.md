@@ -59,7 +59,7 @@ Start the backend server:
 If successful, you’ll see:
 MongoDB connected
 Server running on port 5000
-
+```
 --- 
 
 ### 🖥️ Frontend Setup
@@ -99,5 +99,6 @@ Modern styled forms for both roles
 | **Auth**          | JWT (JSON Web Token), bcryptjs   |
 | **File Handling** | Multer, XLSX, csv-parser         |
 | **Styling**       | Custom CSS with modern UI layout |
+
 
 
