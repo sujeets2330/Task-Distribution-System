@@ -70,20 +70,21 @@ Server running on port 5000
 | **Agent** | `/agent/register` | `/agent/login` | `/agent/dashboard` |
 
 
-🖼️ Screenshots
-🏠 Landing Page (Role Selection)
 
-(Add image here)
+
+🖼️ Screenshots
+   Landing Page
+![Landing Page](/screenshots/Landing Page.png)
 
 
 👑 Admin Dashboard
 
-Shows agents summary and upload area
+![Admin Dashboard](/screenshots/Admin Dashboard.png)
 
 
 🧑‍💼 Agent Dashboard
 
-Shows tasks assigned to the agent
+![Agent Dashboard](/screenshots/Agent Dashboard.png)
 
 
 🔐 Login & Registration
