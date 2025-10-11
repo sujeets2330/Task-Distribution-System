@@ -74,17 +74,17 @@ Server running on port 5000
 
 🖼️ Screenshots
    Landing Page
-![Landing Page](/screenshots/Landing Page.png)
+![Landing Page](/screenshots/LandingPage.png)
 
 
 👑 Admin Dashboard
 
-![Admin Dashboard](/screenshots/Admin Dashboard.png)
+![Admin Dashboard](/screenshots/AdminDashboard.png)
 
 
 🧑‍💼 Agent Dashboard
 
-![Agent Dashboard](/screenshots/Agent Dashboard.png)
+![Agent Dashboard](/screenshots/AgentDashboard.png)
 
 
 🔐 Login & Registration
@@ -99,6 +99,7 @@ Modern styled forms for both roles
 | **Auth**          | JWT (JSON Web Token), bcryptjs   |
 | **File Handling** | Multer, XLSX, csv-parser         |
 | **Styling**       | Custom CSS with modern UI layout |
+
 
 
 
