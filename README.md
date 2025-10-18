@@ -15,7 +15,7 @@ This project demonstrates clean role-based authentication, file upload handling,
 - View each Agent’s assigned task count in a modern dashboard.
 - Logout functionality with secure token validation.
 
-### 🧑‍💼 Agent Side
+### Agent Side
 - Register & Login as Agent.
 - View only tasks assigned to them.
 - Clean, responsive dashboard with logout.
@@ -127,6 +127,7 @@ Modern styled forms for both roles
 - Name - Sujeet M A
 - Email - sujeetmalagundi999@gmail.com
   
+
 
 
 
