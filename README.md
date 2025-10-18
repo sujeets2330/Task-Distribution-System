@@ -69,7 +69,12 @@ Server running on port 5000
 | **Admin** | `/admin/register` | `/admin/login` | `/admin/dashboard` |
 | **Agent** | `/agent/register` | `/agent/login` | `/agent/dashboard` |
 
-
+```bash
+cd frontend
+npm install
+npm run dev
+http://localhost:3000
+```
 
 
  Screenshots
@@ -122,6 +127,7 @@ Modern styled forms for both roles
 - Name - Sujeet M A
 - Email - sujeetmalagundi999@gmail.com
   
+
 
 
 
