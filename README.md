@@ -1,4 +1,4 @@
-# 📊 Task Distribution System (MERN Stack)
+# Task Distribution System (MERN Stack)
 
 A full-stack **MERN (MongoDB, Express, React, Node.js)** application that allows **Admins** to upload `.csv` or `.xlsx` files and automatically distribute work among registered **Agents**.
 
@@ -6,9 +6,9 @@ This project demonstrates clean role-based authentication, file upload handling,
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 👑 Admin Side
+###  Admin Side
 - Register & Login as Admin.
 - Upload `.csv` / `.xlsx` files from local system.
 - Automatic distribution of records among registered Agents.
@@ -22,7 +22,7 @@ This project demonstrates clean role-based authentication, file upload handling,
 
 ---
 
-## 🧠 Project Flow
+##  Project Flow
 
 1. **Admin registers** → logs in → uploads a CSV/XLSX file.  
 2. The backend parses and divides the file rows equally among registered agents.  
@@ -40,7 +40,7 @@ Make sure you have:
 
 ---
 
-### 🖥️ Backend Setup
+###  Backend Setup
 
 ```bash
 cd backend
@@ -62,7 +62,7 @@ Server running on port 5000
 ```
 --- 
 
-### 🖥️ Frontend Setup
+### Frontend Setup
 
 | Role      | Register URL      | Login URL      | Dashboard URL      |
 | --------- | ----------------- | -------------- | ------------------ |
@@ -72,22 +72,22 @@ Server running on port 5000
 
 
 
-🖼️ Screenshots
+ Screenshots
    Landing Page
 ![Landing Page](/screenshots/LandingPage.png)
 
 
-👑 Admin Dashboard
+ Admin Dashboard
 
 ![Admin Dashboard](/screenshots/AdminDashboard.png)
 
 
-🧑‍💼 Agent Dashboard
+ Agent Dashboard
 
 ![Agent Dashboard](/screenshots/AgentDashboard.png)
 
 
-🔐 Login & Registration
+ Login & Registration
 
 Modern styled forms for both roles
 
@@ -99,6 +99,41 @@ Modern styled forms for both roles
 | **Auth**          | JWT (JSON Web Token), bcryptjs   |
 | **File Handling** | Multer, XLSX, csv-parser         |
 | **Styling**       | Custom CSS with modern UI layout |
+
+## Key Features Implementation
+
+ # File Upload & Distribution
+
+- Supports both CSV and Excel formats
+- Automatic equal distribution among available agents
+- File validation and error handling
+
+ # Authentication & Authorization
+ - Role-based access control (Admin/Agent)
+ - JWT token-based authentication
+ - Secure password hashing with bcrypt
+
+ # Dashboard Features
+ - Real-time task statistics
+ - Responsive design for all devices
+ - Clean and intuitive user interface
+
+# Authors
+- Name - Sujeet M A
+- Email - sujeetmalagundi999@gmail.com
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
